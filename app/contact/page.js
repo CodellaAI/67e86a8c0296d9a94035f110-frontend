@@ -6,11 +6,6 @@ import { Mail, Linkedin, Dribbble, GitHub, MapPin, Phone, Clock } from 'lucide-r
 import AnimatedSection from '@/components/AnimatedSection';
 import ContactForm from '@/components/ContactForm';
 
-export const metadata = {
-  title: 'Contact | UX/UI Designer Portfolio',
-  description: 'Get in touch with me about your project, collaboration, or employment opportunities.',
-};
-
 export default function Contact() {
   return (
     <>

@@ -7,11 +7,6 @@ import { Search, Lightbulb, Palette, TestTube, Users, Layout, ArrowRight } from 
 import AnimatedSection from '@/components/AnimatedSection';
 import Button from '@/components/Button';
 
-export const metadata = {
-  title: 'Design Process | UX/UI Designer Portfolio',
-  description: 'Learn about my UX/UI design process, methodology, and approach to creating effective digital experiences.',
-};
-
 export default function Process() {
   const processSteps = [
     {
